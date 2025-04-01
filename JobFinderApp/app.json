@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "JobFinderApp",
+    "slug": "job-finder-app",
+    "icon": "./logo.png",
+    "splash": {
+      "image": "./logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
